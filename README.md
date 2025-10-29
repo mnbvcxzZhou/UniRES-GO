@@ -23,7 +23,7 @@
 - **Protein structure data:** [AlphaFold Protein Structure Database](https://alphafold.com/download)
   - Download human protein PDBs (similar to the `data/filtered_pdb` folder contents, I gave 5 pdb files as an example, you can delete them)
   - The example uses v4; there may be newer releases now
-  - save the dataset to pdb folder(In short, the pdb file contains over 20,000 pdb files.)
+  - create `data/pdb` folder, save the dataset to pdb folder(In short, the pdb file contains over 20,000 pdb files.)
 > **Note:** this dataset is big, may over 6g;
 ## 3. Data Processing
 
